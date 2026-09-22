@@ -9,3 +9,5 @@ sentence-transformers
 faiss-cpu
 pypdf
 docx2txt
+beautifulsoup4
+lxml
